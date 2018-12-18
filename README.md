@@ -1,2 +1,2 @@
 # hello
-Sample Projects to get hands on Golang.
+Sample Project to get hands on Golang.
